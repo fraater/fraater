@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I’m fratter.<br>My real name is Maciek, and I’m from Poland.<br>I primarily work in web development, but I’m also passionate about cybersecurity.
+Hi 👋, I’m fraater.<br>My real name is Maciek, and I’m from Poland.<br>I primarily work in web development, but I’m also passionate about cybersecurity.
 
 
 # 💻 Tech Stack:
